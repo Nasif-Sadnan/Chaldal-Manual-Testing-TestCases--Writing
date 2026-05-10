@@ -190,12 +190,10 @@ Documented **12 defects** found during testing, each with Severity, Priority, St
 │ Not Executed        │     0   (0.00%)    │
 │ Out of Scope        │     0   (0.00%)    │
 └─────────────────────┴────────────────────┘
-
-![Chaldal Test Image](https://drive.google.com/file/d/1EdkGTgH0YJyrbUrnqd0nSbZctxj2B3Pv/view?usp=sharing)
-
-<img src="https://drive.google.com/file/d/1GRrkzVdmeckTgSEM2bQsR_AYP9wj654y/view?usp=drive_link" alt="Chaldal Test Image_Graph" width="500"/>
 ```
+![Screenshot of Chaldal manual testing summary including test execution counts and coverage notes](https://drive.google.com/file/d/1EdkGTgH0YJyrbUrnqd0nSbZctxj2B3Pv/view?usp=sharing)
 
+<img src="https://drive.google.com/file/d/1GRrkzVdmeckTgSEM2bQsR_AYP9wj654y/view?usp=drive_link" alt="Graph summarizing 98 test cases executed with 86 passed and 12 failed for Chaldal manual testing" width="500"/>
 ---
 
 ## Conclusion
