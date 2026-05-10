@@ -190,6 +190,10 @@ Documented **12 defects** found during testing, each with Severity, Priority, St
 │ Not Executed        │     0   (0.00%)    │
 │ Out of Scope        │     0   (0.00%)    │
 └─────────────────────┴────────────────────┘
+
+![Chaldal Test Image](https://drive.google.com/file/d/1EdkGTgH0YJyrbUrnqd0nSbZctxj2B3Pv/view?usp=sharing)
+
+<img src="https://drive.google.com/file/d/1GRrkzVdmeckTgSEM2bQsR_AYP9wj654y/view?usp=drive_link" alt="Chaldal Test Image_Graph" width="500"/>
 ```
 
 ---
@@ -198,4 +202,4 @@ Documented **12 defects** found during testing, each with Severity, Priority, St
 
 This manual testing project for **Chaldal** has successfully validated the platform's core functionalities across all primary user flows — from authentication and profile management to shopping cart operations and delivery address handling. The complete documentation, including test cases, test scenarios, mind map, test metrics, and bug reports, has been prepared to support continuous quality improvement.
 
-The two most critical findings — **OTP security exposure** and **OTP resend returning duplicate codes** — are flagged as high-priority issues requiring immediate attention to protect user account security. All other identified defects have been logged with full reproduction steps for efficient tracking and resolution.
+The two most critical findings - **OTP security exposure** and **OTP resend returning duplicate codes** - are flagged as high-priority issues requiring immediate attention to protect user account security. All other identified defects have been logged with full reproduction steps for efficient tracking and resolution.
