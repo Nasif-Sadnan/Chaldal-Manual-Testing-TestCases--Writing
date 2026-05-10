@@ -192,9 +192,9 @@ Documented **12 defects** found during testing, each with Severity, Priority, St
 └─────────────────────┴────────────────────┘
 
 ```
-![Chaldal Test Image](assets/images/chaldal-test.png)
+![Chaldal Test Image](assests/images/chaldal-test.png)
 
-![Chaldal Test Graph](assets/images/chaldal-graph.png)
+![Chaldal Test Graph](assests/images/chaldal-graph.png)
 
 
 
